@@ -1,5 +1,4 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Monogramm/Monogramm.github.io)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Monogramm/personal-website-template)
 
 # Get started building your personal website
 
@@ -13,15 +12,15 @@ It's all possible using the combination of [Jekyll](https://jekyllrb.com/docs/) 
 
 ## Installation
 
-### Fork the `Monogramm/personal-website-template` repo
+### Fork the `Monogramm/Monogramm.github.io` repo
 
-You'll be making your own copy of the "personal website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop [the `Monogramm/personal-website-template` repository](https://github.com/Monogramm/personal-website-template).
+You'll be making your own copy of the "personal website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop [the `Monogramm/Monogramm.github.io` repository](https://github.com/Monogramm/Monogramm.github.io).
 
 Once you've found a home for your forked repository, it's yours. You're the owner, so you're ready to publish, if you wish.
 
 ### Install in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Monogramm/personal-website-template)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Monogramm/Monogramm.github.io)
 
 If you wish to sign your commits using GitPod, follow the instructions from [gitpod-io/gitpod#666](https://github.com/gitpod-io/gitpod/issues/666#issuecomment-534347856):
 
@@ -50,7 +49,7 @@ gem install jekyll bundler
 3.  Change into your new directory
 
 ```bash
-cd personal-website-template
+cd Monogramm.github.io
 ```
 
 4.  Install missing gems
@@ -68,14 +67,14 @@ bundle exec jekyll serve
 You should see something like:
 
 ```bash
-Configuration file: /octocat/personal-website-template/_config.yml
-            Source: /octocat/personal-website-template
+Configuration file: /octocat/Monogramm.github.io/_config.yml
+            Source: /octocat/Monogramm.github.io
         Destination: /octocat/_site
   Incremental build: disabled. Enable with --incremental
       Generating...
     GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
                     done in 14.729 seconds.
-  Auto-regeneration: enabled for '/octocat/personal-website-template'
+  Auto-regeneration: enabled for '/octocat/Monogramm.github.io'
     Server address: http://127.0.0.1:4000
   Server running... press ctrl-c to stop.
 ```
